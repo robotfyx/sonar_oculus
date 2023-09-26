@@ -1,6 +1,6 @@
 # sonar_oculus
 
-用于使用ROS完成oculus_sonar M1200d的图像接收与转化处理，其中绝大部分代码来自[][GitHub - ENSTABretagneRobotics/oculus_ros: ROS1 node for the Blueprint Oculus front scan sonar.](https://github.com/ENSTABretagneRobotics/oculus_ros)，在其基础上作了增添与修改。
+用于使用ROS完成oculus_sonar M1200d的图像接收与转化处理，其中绝大部分代码来自[GitHub - ENSTABretagneRobotics/oculus_ros: ROS1 node for the Blueprint Oculus front scan sonar.](https://github.com/ENSTABretagneRobotics/oculus_ros)，在其基础上作了增添与修改。
 
 ---
 
