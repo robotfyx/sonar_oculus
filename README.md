@@ -12,7 +12,7 @@
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/2556769/1694955285204-ab878893-b75e-4c50-b4aa-f38a63f1de7a.png)
 
-按照提示找到conversions.h文件，将155与182行的data_size改为ping_data_size，再重新catkin_make便可以成功了。
+按照提示找到conversions.h文件，将155与182行的data_size改为ping_data_size，再重新catkin_make便可以成功了（本仓库中已完成更改）。
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/2556769/1694955453723-0ddce1ac-63dc-4614-9a1d-65a5a2e6b160.png?x-oss-process=image%2Fresize%2Cw_737%2Climit_0)
 
